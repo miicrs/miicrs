@@ -20,8 +20,18 @@ Applied and developed various skills to work in a group to brainstorm, design, b
 - Finalist Alliance - 1st Team Selected
 - Connect Award
 
-**Project Shots:**
-[Robao Awards]() 
+<ins>**Project Shots:**
+
+![Robao Awards](https://github.com/user-attachments/assets/789c9fb6-000e-4361-8109-90bb403a38a8)
+<ins> **Robao Awards** <br>
+**Description:** Picture of the awards that our team won (awards listed above). 
+
+
+![Chassis prototype](https://github.com/user-attachments/assets/f6bd4e8a-d587-46fd-805f-b25696c53085)
+**Chassis prototype** <br>
+**Description:** Initial prototype of robot chassis to test robot's structure and layout.
+
+
 
 
 <!--
